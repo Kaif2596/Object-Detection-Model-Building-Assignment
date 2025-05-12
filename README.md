@@ -46,7 +46,7 @@ For this experiment, I used an open-source object detection dataset that contain
 
   Epoch [7/10]               Loss: 35192.5851   Epoch [8/10]               Loss: 33290.3532   Epoch [9/10]               Loss: 31298.4831   Epoch [10/10]             Loss: 29606.3624   
 
-![alt text](Aspose.Words.4caf4d9d-8407-4d1c-a9fb-2abfb0084843.001.jpeg)
+![alt text](https://github.com/Kaif2596/Object-Detection-Model-Building-Assignment/blob/main/image%2002.jpeg)
 
 Note: - The total loss reduced by more than **50%,** showing effective learning and convergence of the model. 
 
