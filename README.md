@@ -58,7 +58,7 @@ Note: - The total loss reduced by more than **50%,** showing effective learning 
 - **Truck** – Confidence Score: **0.96** 
 - Bounding boxes were correctly drawn and labeled. 
 
-![](Aspose.Words.4caf4d9d-8407-4d1c-a9fb-2abfb0084843.002.jpeg)
+![alt text](https://github.com/Kaif2596/Object-Detection-Model-Building-Assignment/blob/main/image01.jpeg)
 
 Note: - Now you can see, this confirms that the model is **highly accurate** and capable of detecting multiple object classes with strong confidence. 
 
